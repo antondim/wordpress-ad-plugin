@@ -26,9 +26,9 @@ docker-compose up -d
 ```
 to build the enviroment
 
-- copy 'myad-plugin' folder of repository inside the created docker volume folder '~/path_to_wordpress_folder/html/wp-content/plugins'
+- copy 'myad-plugin' folder of repository inside the created docker volume folder **'~/path_to_wordpress_folder/html/wp-content/plugins'**
 
-**2)Through a browser connect to wordpress local test site on 8080 port** :
+**2) Through a browser connect to wordpress local test site on 8080 port** :
 
 ```
 localhost:8080
@@ -42,8 +42,11 @@ localhost:8080
 **6) Publish a post with two or more paragraphs**
 
 **7) View the post. The ad should be visible after paragraph two of your post**
-
-Disable browser's ad-block if already enabled
+\
+\
+\
+\
+**Disable browser's ad-block if already enabled**
 
 
 
